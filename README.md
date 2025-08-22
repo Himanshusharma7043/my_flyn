@@ -63,7 +63,8 @@ flutter run
 ---
 
 ## 📸 Screenshots / Demo (Optional)
-**White Theme**
+- **White Theme**
+
 <img width="250" alt="Screenshot_1755839830" src="https://github.com/user-attachments/assets/869af981-eafd-4b77-8c3f-eaaf2935b52b" />
 <img width="250" alt="Screenshot_1755839711" src="https://github.com/user-attachments/assets/9cf25a8b-c136-445a-9fd1-97f5ea1b6aeb" />
 <img width="250" alt="Screenshot_1755839758" src="https://github.com/user-attachments/assets/4e22a94c-2ee9-43d8-b637-3faca4ed0687" />
@@ -72,7 +73,8 @@ flutter run
 <img width="250" alt="Screenshot_1755839771" src="https://github.com/user-attachments/assets/df828350-79b9-4dd2-ac7e-670d11dc3334" />
 
 ---
-**Dark Theme**
+- **Dark Theme**
+
 <img width="250" alt="Screenshot_1755839830" src="https://github.com/user-attachments/assets/371cd7c2-ecf6-4191-9ff5-bb8b4baf068e" />
 <img width="250" alt="Screenshot_1755839896" src="https://github.com/user-attachments/assets/4535f0cd-bbdb-44f8-92c8-1ad4186670ba" />
 <img width="250" alt="Screenshot_1755840034" src="https://github.com/user-attachments/assets/e5991378-2819-4e41-a245-93205b455a01" />
