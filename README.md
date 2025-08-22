@@ -71,7 +71,7 @@ flutter run
 <img width="250" alt="Screenshot_1755839768" src="https://github.com/user-attachments/assets/c78b8d87-f3b3-4a58-97be-cec4522976f2" />
 <img width="250" alt="Screenshot_1755839771" src="https://github.com/user-attachments/assets/df828350-79b9-4dd2-ac7e-670d11dc3334" />
 
-
+---
 **Dark Theme**
 <img width="250" alt="Screenshot_1755839830" src="https://github.com/user-attachments/assets/371cd7c2-ecf6-4191-9ff5-bb8b4baf068e" />
 <img width="250" alt="Screenshot_1755839896" src="https://github.com/user-attachments/assets/4535f0cd-bbdb-44f8-92c8-1ad4186670ba" />
@@ -80,6 +80,7 @@ flutter run
 <img width="250" alt="Screenshot_1755840042" src="https://github.com/user-attachments/assets/6c8ddade-b40c-4c47-9ada-4b42dc24f41a" />
 <img width="250" alt="Screenshot_1755840046" src="https://github.com/user-attachments/assets/cce76ff3-c85a-4664-8a55-3972d8619929" />
 
+---
 **Added a feature Language Toggle between English and Korean**
 - As English is already covered in above screens shots so Below is Korean Text UI screen shots.
 <img width="250" alt="Screenshot_1755840287" src="https://github.com/user-attachments/assets/4e75dbb3-0e15-4b96-9e20-a1cbbab27037" />
